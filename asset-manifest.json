@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/leaseDash/static/css/main.d39edc37.chunk.css",
+    "main.js": "/leaseDash/static/js/main.9a20fdad.chunk.js",
+    "main.js.map": "/leaseDash/static/js/main.9a20fdad.chunk.js.map",
+    "runtime-main.js": "/leaseDash/static/js/runtime-main.c73f27fe.js",
+    "runtime-main.js.map": "/leaseDash/static/js/runtime-main.c73f27fe.js.map",
+    "static/js/2.7f30c843.chunk.js": "/leaseDash/static/js/2.7f30c843.chunk.js",
+    "static/js/2.7f30c843.chunk.js.map": "/leaseDash/static/js/2.7f30c843.chunk.js.map",
+    "index.html": "/leaseDash/index.html",
+    "precache-manifest.3af79b4ecc6b1b04731c847de64104dd.js": "/leaseDash/precache-manifest.3af79b4ecc6b1b04731c847de64104dd.js",
+    "service-worker.js": "/leaseDash/service-worker.js",
+    "static/css/main.d39edc37.chunk.css.map": "/leaseDash/static/css/main.d39edc37.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c73f27fe.js",
+    "static/js/2.7f30c843.chunk.js",
+    "static/css/main.d39edc37.chunk.css",
+    "static/js/main.9a20fdad.chunk.js"
+  ]
+}
