@@ -1,7 +1,6 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "https://czuniga10.github.io/LeaseDeployDashboard",
   "private": true,
   "dependencies": {
     "react": "^16.11.0",
